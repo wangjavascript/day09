@@ -1,0 +1,308 @@
+{
+  "keys": "D:\\node\\day09\\config\\config.default.js",
+  "middleware": "D:\\node\\day09\\config\\config.default.js",
+  "mysql": {
+    "client": {
+      "host": "D:\\node\\day09\\config\\config.default.js",
+      "port": "D:\\node\\day09\\config\\config.default.js",
+      "user": "D:\\node\\day09\\config\\config.default.js",
+      "password": "D:\\node\\day09\\config\\config.default.js",
+      "database": "D:\\node\\day09\\config\\config.default.js"
+    },
+    "app": "D:\\node\\day09\\config\\config.default.js",
+    "agent": "D:\\node\\day09\\config\\config.default.js",
+    "default": {
+      "database": "D:\\node\\day09\\node_modules\\egg-mysql\\config\\config.default.js",
+      "connectionLimit": "D:\\node\\day09\\node_modules\\egg-mysql\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "D:\\node\\day09\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "D:\\node\\day09\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\node\\day09\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "D:\\node\\day09\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "D:\\node\\day09\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\node\\day09\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\node\\day09\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\node\\day09\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\node\\day09\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\node\\day09\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\node\\day09\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\node\\day09\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\node\\day09\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\node\\day09\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\node\\day09\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\node\\day09\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\node\\day09\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\node\\day09\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\node\\day09\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "D:\\node\\day09\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\node\\day09\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "D:\\node\\day09\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\node\\day09\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\node\\day09\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\node\\day09\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\node\\day09\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\node\\day09\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\node\\day09\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "D:\\node\\day09\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\node\\day09\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "D:\\node\\day09\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\node\\day09\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\node\\day09\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\node\\day09\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\node\\day09\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\node\\day09\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\node\\day09\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "D:\\node\\day09\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\node\\day09\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\node\\day09\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\node\\day09\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\node\\day09\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\node\\day09\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\node\\day09\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\node\\day09\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\node\\day09\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\node\\day09\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\node\\day09\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "D:\\node\\day09\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "D:\\node\\day09\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "D:\\node\\day09\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "D:\\node\\day09\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\node\\day09\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "D:\\node\\day09\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "D:\\node\\day09\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\node\\day09\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\node\\day09\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "D:\\node\\day09\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+  "name": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "version": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "description": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "private": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "egg-mysql": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "stop": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "dev": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "debug": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "test": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "cov": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "lint": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "ci": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "autod": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "url": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "license": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "strict": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "depth": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "env": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "level": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\node\\day09\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "logging": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "port": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\node\\day09\\node_modules\\egg\\config\\config.default.js"
+}
